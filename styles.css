@@ -1,9 +1,16 @@
 
 /* Your CSS Code here. */
 #btn{
-Background Colour:	black;
-Font Colour:white;
+Background Color:black;
+Font Color	black
+Border-Radius:30px;
+Font Color:white;
 Border-Radius:5px;
+
 Border:none;
 input-Type:submit;
 }
+.btn
+Background-Colour:yellow;
+Font-Colour:black;
+Border-Radius:30px;
